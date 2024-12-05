@@ -1,0 +1,17 @@
+Birthdate,Education,Postalcode,Location,UserId,CourseModuleState,CourseModuleState.1,CourseCompletionStart,CourseCompletionFinish,ModuleName,CourseModuleId,Courseid,ModuleGrade,ModuleMaxgrade
+1993.12.09.,Középfokú végzettség és gimnáziumi érettségi (gimnázium),8800.0,Nagykanizsa,1973,1,1731091748,0,\N,customcert,476,48,\N,\N
+1993.12.09.,Középfokú végzettség és gimnáziumi érettségi (gimnázium),8800.0,Nagykanizsa,1973,1,1731091828,0,\N,scorm,478,48,0.00000,100.00000
+1998.05.19.,"Középfokú végzettség és középfokú szakképesítés (szakgimnázium, szakképző iskola, szakiskola)",2315.0,Szigethalom,1552,1,1728067276,0,\N,customcert,390,39,\N,\N
+1998.05.19.,"Középfokú végzettség és középfokú szakképesítés (szakgimnázium, szakképző iskola, szakiskola)",2315.0,Szigethalom,1552,0,0,0,\N,scorm,384,39,\N,\N
+1998.05.19.,"Középfokú végzettség és középfokú szakképesítés (szakgimnázium, szakképző iskola, szakiskola)",2315.0,Szigethalom,1552,1,1731075573,1732617610,1732617610,customcert,449,45,\N,\N
+1998.05.19.,"Középfokú végzettség és középfokú szakképesítés (szakgimnázium, szakképző iskola, szakiskola)",2315.0,Szigethalom,1552,1,1731075642,1732617610,1732617610,scorm,451,45,0.00000,100.00000
+1998.05.19.,"Középfokú végzettség és középfokú szakképesítés (szakgimnázium, szakképző iskola, szakiskola)",2315.0,Szigethalom,1552,1,1732617112,1732617610,1732617610,scorm,452,45,100.00000,100.00000
+1998.05.19.,"Középfokú végzettség és középfokú szakképesítés (szakgimnázium, szakképző iskola, szakiskola)",2315.0,Szigethalom,1552,2,1732617610,1732617610,1732617610,quiz,453,45,9.00000,10.00000
+1998.05.19.,"Középfokú végzettség és középfokú szakképesítés (szakgimnázium, szakképző iskola, szakiskola)",2315.0,Szigethalom,1552,1,1732617864,1732617610,1732617610,feedback,454,45,\N,\N
+1990.07.25.,Középfokú végzettség és gimnáziumi érettségi (gimnázium),5051.0,Zagyvarékas,1698,1,1728334932,1730359962,1730359962,customcert,424,42,\N,\N
+1990.07.25.,Középfokú végzettség és gimnáziumi érettségi (gimnázium),5051.0,Zagyvarékas,1698,1,1728335277,1730359962,1730359962,scorm,419,42,0.00000,100.00000
+1990.07.25.,Középfokú végzettség és gimnáziumi érettségi (gimnázium),5051.0,Zagyvarékas,1698,1,1730358872,1730359962,1730359962,scorm,420,42,0.00000,100.00000
+1990.07.25.,Középfokú végzettség és gimnáziumi érettségi (gimnázium),5051.0,Zagyvarékas,1698,2,1730359962,1730359962,1730359962,quiz,421,42,9.00000,10.00000
+1990.07.25.,Középfokú végzettség és gimnáziumi érettségi (gimnázium),5051.0,Zagyvarékas,1698,1,1730360630,1730359962,1730359962,feedback,422,42,\N,\N
+1990.07.25.,Középfokú végzettség és gimnáziumi érettségi (gimnázium),5051.0,Zagyvarékas,1698,1,1731078595,0,\N,customcert,494,50,\N,\N
+1990.07.25.,Középfokú végzettség és gimnáziumi érettségi (gimnázium),5051.0,Zagyvarékas,1698,1,1731078647,0,\N,scorm,496,50,0.00000,100.00000

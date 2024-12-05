@@ -1,0 +1,10 @@
+UserId,UserEmail,CourseModuleState,CourseModuleState,CourseCompletionStart,CourseCompletionFinish,ModuleName,CourseModuleId,Courseid,ModuleGrade,ModuleMaxgrade
+10,"nagy+tanulo@skoll.hu",1,1715094609,0,\N,"resource",19,5,\N,\N
+10,"nagy+tanulo@skoll.hu",1,1715094611,0,\N,"resource",18,5,\N,\N
+5,"orban@skoll.hu",1,1715097281,0,\N,"resource",19,5,\N,\N
+5,"orban@skoll.hu",1,1715098526,0,\N,"resource",18,5,\N,\N
+8,"mongyi+tanulo@skoll.hu",1,1715154379,0,\N,"resource",19,5,\N,\N
+8,"mongyi+tanulo@skoll.hu",1,1715154425,0,\N,"resource",18,5,\N,\N
+3,"mongyi@skoll.hu",1,1715171827,0,\N,"resource",18,5,\N,\N
+3,"mongyi@skoll.hu",1,1715173068,0,\N,"resource",30,3,\N,\N
+3,"mongyi@skoll.hu",1,1715173217,0,\N,"resource",31,2,\N,\N
